@@ -1,10 +1,5 @@
 # PyRelay
 'pyrelay.py' is the python code to control USB Relay Module.
-## OS
-* Window ('nt')
-* Mac ('darwin')
-* Linux ('posix')
-
 ## Compatible Devices
 * JK-UR-1
 * JK-UR-2
